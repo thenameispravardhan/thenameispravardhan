@@ -100,16 +100,16 @@ Real-time chat platform with Gemini-powered personality matching, sustaining 100
 </td>
 <td width="50%" valign="top">
 
-### ▸ WhatsApp Automation Workflows
-`ACTIVE` · Client-facing business automation
+### ▸ AI Outfit Planner
+`ACTIVE` · Recommendation system
 
-Conversational automation handling reservations, orders and enquiries end to end — routing user intent through an LLM, persisting state, and syncing to the client's existing tools.
+Suggests outfit combinations from a user's wardrobe, reasoning over garment attributes and context to rank pairings instead of matching on tags alone.
 
-Deployed for real small-business clients across home services and hospitality.
+Turns a subjective, visual problem into a structured recommendation pipeline.
 
-`n8n` `LLM APIs` `Firebase` `Google Sheets` `Webhooks`
+`Python` `AI/ML` `Recommendation Engine`
 
-<a href="https://github.com/thenameispravardhan">
+<a href="https://github.com/thenameispravardhan/AI-Outfit_Planner">
 <img src="https://img.shields.io/badge/EXPLORE-0d1117?style=for-the-badge&logo=github&logoColor=00f5d4" />
 </a>
 
