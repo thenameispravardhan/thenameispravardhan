@@ -2,12 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Pravardhan%20Manchala&fontSize=52&fontColor=00F5D4&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%C2%B7%20Algorithmic%20Trading%20%C2%B7%20AI%20Systems&descAlignY=55&descSize=18&descColor=8892B0" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=Turning+market+noise+into+executable+signals;Real-time+pipelines+%7C+Sub-second+backtests;Python+%C2%B7+SQL+%C2%B7+Spark+%C2%B7+DuckDB+%C2%B7+FastAPI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=680&lines=Turning+market+noise+into+executable+signals;Real-time+pipelines+at+exchange+speed;Python+%C2%B7+SQL+%C2%B7+Spark+%C2%B7+FastAPI+%C2%B7+React" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=thenameispravardhan&label=PROFILE+VIEWS&color=00f5d4&style=flat-square" />
 <img src="https://img.shields.io/github/followers/thenameispravardhan?label=FOLLOWERS&style=flat-square&color=00f5d4&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/BASED_IN-HYDERABAD,_IN-0d1117?style=flat-square&color=00f5d4&labelColor=0d1117" />
 
 </div>
 
@@ -53,9 +54,9 @@
 
 Ingests NSE/BSE corporate filings the second they publish, runs them through an LLM to extract structured fields, scores confidence, and fires risk-managed orders through a broker API.
 
-**Sub-second backtests** over millions of rows via DuckDB.
+Custom ML model trained on thousands of news events mapped to intraday price reactions.
 
-`Python` `FastAPI` `DuckDB` `Scikit-learn` `React`
+`Python` `FastAPI` `SQLAlchemy` `Scikit-learn` `React`
 
 <a href="https://github.com/thenameispravardhan">
 <img src="https://img.shields.io/badge/EXPLORE-0d1117?style=for-the-badge&logo=github&logoColor=00f5d4" />
@@ -69,7 +70,7 @@ Ingests NSE/BSE corporate filings the second they publish, runs them through an 
 
 Big-data pipeline scoring high-volume trade data for insider trading and pump-and-dump patterns, surfaced through a compliance dashboard.
 
-**0–100 suspicion scoring** across HDFS-scale datasets.
+0–100 suspicion scoring across HDFS-scale datasets.
 
 `Hadoop` `Spark` `Hive` `Pig` `Flask`
 
@@ -79,15 +80,18 @@ Big-data pipeline scoring high-volume trade data for insider trading and pump-an
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
 ### ▸ VibeMesh
 `ACTIVE` · AI social platform
 
-Real-time chat platform with Gemini-powered personality matching, sustaining 100+ concurrent users over Socket.io event streams.
+Real-time chat platform with Gemini-powered personality matching, sustaining 100+ concurrent users over Socket.io event streams. Firebase-backed data model with paginated message history.
 
-`React` `Node` `Firebase` `Socket.io` `Gemini`
+`React` `Node` `Express` `Firebase` `Socket.io` `Gemini`
 
 <a href="https://github.com/thenameispravardhan">
 <img src="https://img.shields.io/badge/EXPLORE-0d1117?style=for-the-badge&logo=github&logoColor=00f5d4" />
@@ -96,14 +100,14 @@ Real-time chat platform with Gemini-powered personality matching, sustaining 100
 </td>
 <td width="50%" valign="top">
 
-### ▸ Emergency Response System
-`SHIPPED` · AICTE IDEA Lab
+### ▸ What I'm reaching for next
+`IN PROGRESS`
 
-Multi-channel SOS alerting delivering notifications to family and law enforcement in **under 3 seconds**, with offline-first medical records.
+Deeper C++ and stochastic methods for quant work. Cloud-native pipelines on Azure Data Factory, Databricks and Snowflake. More competitive programming volume.
 
-`Mobile` `Data Modelling` `System Design`
+Open to internships and full-time roles in data engineering, backend, and quantitative development.
 
-<img src="https://img.shields.io/badge/INTERNSHIP-0d1117?style=for-the-badge&logoColor=00f5d4" />
+<img src="https://img.shields.io/badge/AVAILABLE-0d1117?style=for-the-badge&logoColor=00f5d4" />
 
 </td>
 </tr>
@@ -115,16 +119,12 @@ Multi-channel SOS alerting delivering notifications to family and law enforcemen
 
 ## 📡 TELEMETRY
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thenameispravardhan&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=8892b0&hide_border=true" />
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenameispravardhan&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00f5d4&text_color=8892b0&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thenameispravardhan&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=8892b0&hide_border=true&cache_seconds=86400" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenameispravardhan&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00f5d4&text_color=8892b0&hide_border=true&cache_seconds=86400" />
 
 <br/><br/>
 
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=thenameispravardhan&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area=true&hide_border=true" />
-
-<br/><br/>
-
-<img width="92%" src="https://github-profile-trophy.vercel.app/?username=thenameispravardhan&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
 
