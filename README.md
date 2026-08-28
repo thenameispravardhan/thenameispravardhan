@@ -1,153 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Pravardhan%20Manchala&fontSize=52&fontColor=00F5D4&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%C2%B7%20Algorithmic%20Trading%20%C2%B7%20AI%20Systems&descAlignY=55&descSize=18&descColor=8892B0" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=680&lines=Turning+market+noise+into+executable+signals;Real-time+pipelines+at+exchange+speed;Python+%C2%B7+SQL+%C2%B7+Spark+%C2%B7+FastAPI+%C2%B7+React" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080C14,50:101B2D,100:00BFA6&text=Pravardhan%20Manchala&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SYSTEMS%20%C2%B7%20REAL-TIME%20INTELLIGENCE%20%C2%B7%20ALGORITHMIC%20TRADING&descAlignY=58&descSize=15&descColor=7DD3FC&animation=fadeIn" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=thenameispravardhan&label=PROFILE+VIEWS&color=00f5d4&style=flat-square" />
-<img src="https://img.shields.io/github/followers/thenameispravardhan?label=FOLLOWERS&style=flat-square&color=00f5d4&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/BASED_IN-HYDERABAD,_IN-0d1117?style=flat-square&color=00f5d4&labelColor=0d1117" />
-
-</div>
-
-<br/>
-
-```console
-> initializing profile...
-
-  NAME      Manchala Nitya Pravardhan
-  ROLE      Final-year B.E. — AI & Data Science @ CBIT, Hyderabad
-  FOCUS     Data pipelines · Quant systems · LLM integration
-  BUILDING  Event-driven trading engine on NSE/BSE filings
-  LEARNING  Azure Data Factory · Databricks · Snowflake
-  STATUS    ● open to SDE / Data Engineering roles
-
-> _
-```
-
-<br/>
-
-<div align="center">
-
-## ⚡ ARSENAL
-
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,mysql,postgres,mongodb&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react,tailwind,firebase&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,docker,git,linux,gcp,vercel&theme=dark" />
-
-</div>
-
-<br/>
-
-## 🛰 SYSTEMS IN ORBIT
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ▸ AI News Trading Bot
-`ACTIVE` · Real-time signal engine
-
-Ingests NSE/BSE corporate filings the second they publish, runs them through an LLM to extract structured fields, scores confidence, and fires risk-managed orders through a broker API.
-
-Custom ML model trained on thousands of news events mapped to intraday price reactions.
-
-`Python` `FastAPI` `SQLAlchemy` `Scikit-learn` `React`
-
-<a href="https://github.com/thenameispravardhan">
-<img src="https://img.shields.io/badge/EXPLORE-0d1117?style=for-the-badge&logo=github&logoColor=00f5d4" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### ▸ Fraud Detection Engine
-`ACTIVE` · Distributed anomaly detection
-
-Big-data pipeline scoring high-volume trade data for insider trading and pump-and-dump patterns, surfaced through a compliance dashboard.
-
-0–100 suspicion scoring across HDFS-scale datasets.
-
-`Hadoop` `Spark` `Hive` `Pig` `Flask`
-
-<a href="https://github.com/thenameispravardhan">
-<img src="https://img.shields.io/badge/EXPLORE-0d1117?style=for-the-badge&logo=github&logoColor=00f5d4" />
-</a>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ▸ VibeMesh
-`ACTIVE` · AI social platform
-
-Real-time chat platform with Gemini-powered personality matching, sustaining 100+ concurrent users over Socket.io event streams. Firebase-backed data model with paginated message history.
-
-`React` `Node` `Express` `Firebase` `Socket.io` `Gemini`
-
-<a href="https://github.com/thenameispravardhan">
-<img src="https://img.shields.io/badge/EXPLORE-0d1117?style=for-the-badge&logo=github&logoColor=00f5d4" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### ▸ What I'm reaching for next
-`IN PROGRESS`
-
-Deeper C++ and stochastic methods for quant work. Cloud-native pipelines on Azure Data Factory, Databricks and Snowflake. More competitive programming volume.
-
-Open to internships and full-time roles in data engineering, backend, and quantitative development.
-
-<img src="https://img.shields.io/badge/AVAILABLE-0d1117?style=for-the-badge&logoColor=00f5d4" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## 📡 TELEMETRY
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thenameispravardhan&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=8892b0&hide_border=true&cache_seconds=86400" />
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenameispravardhan&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00f5d4&text_color=8892b0&hide_border=true&cache_seconds=86400" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=00E5C7&center=true&vCenter=true&width=760&lines=Turning+market+noise+into+structured+decisions;Building+real-time+systems+where+seconds+matter;Python+%C2%B7+Data+Engineering+%C2%B7+AI+Systems+%C2%B7+Quant+Technology" />
 
 <br/><br/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=thenameispravardhan&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area=true&hide_border=true" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00E5C7?style=for-the-badge&labelColor=0B1220" />
+<img src="https://img.shields.io/badge/FOCUS-REAL--TIME%20SYSTEMS-38BDF8?style=for-the-badge&labelColor=0B1220" />
+<img src="https://img.shields.io/badge/LOCATION-HYDERABAD%2C%20INDIA-A78BFA?style=for-the-badge&labelColor=0B1220" />
 
 </div>
 
 <br/>
 
-<div align="center">
-
-## 🔗 UPLINK
-
-<a href="https://www.linkedin.com/in/pravardhan049/">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5d4" />
-</a>
-<a href="https://leetcode.com/u/5Zijnkh48r/">
-<img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00f5d4" />
-</a>
-<a href="mailto:nityapravardhanmanchala@gmail.com">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00f5d4" />
-</a>
-
-<br/><br/>
-
-<i>"Markets are just data waiting to be read correctly."</i>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
-
-</div>
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│ SYSTEM PROFILE                                                       │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  NAME       Manchala Nitya Pravardhan                               │
+│  ROLE       Final-year B.E. — AI & Data Science                     │
+│  FOCUS      Real-time data · AI systems · Backend engineering       │
+│  BUILDING   Event-driven intelligence systems for financial markets │
+│  INTERESTS  Data Engineering · Quant Systems · LLM Applications     │
+│  STATUS     ● Open to SDE / Data Engineering opportunities          │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
