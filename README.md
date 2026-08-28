@@ -121,21 +121,6 @@ Deployed for real small-business clients across home services and hospitality.
 
 <div align="center">
 
-## 📡 TELEMETRY
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thenameispravardhan&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=8892b0&hide_border=true&cache_seconds=86400" />
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenameispravardhan&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00f5d4&text_color=8892b0&hide_border=true&cache_seconds=86400" />
-
-<br/><br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=thenameispravardhan&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ## 🔗 UPLINK
 
 <a href="https://www.linkedin.com/in/pravardhan049/">
@@ -149,8 +134,6 @@ Deployed for real small-business clients across home services and hospitality.
 </a>
 
 <br/><br/>
-
-<i>"Markets are just data waiting to be read correctly."</i>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
 
