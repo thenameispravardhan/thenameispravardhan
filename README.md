@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Pravardhan%20Manchala&fontSize=52&fontColor=00F5D4&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%C2%B7%20Algorithmic%20Trading%20%C2%B7%20AI%20Systems&descAlignY=55&descSize=18&descColor=8892B0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Manchala%20Nitya%20Pravardhan%&fontSize=52&fontColor=00F5D4&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%C2%B7%20Algorithmic%20Trading%20%C2%B7%20AI%20Systems&descAlignY=55&descSize=18&descColor=8892B0" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=680&lines=Turning+market+noise+into+executable+signals;Real-time+pipelines+at+exchange+speed;Python+%C2%B7+SQL+%C2%B7+Spark+%C2%B7+FastAPI+%C2%B7+React" />
 
